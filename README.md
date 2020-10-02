@@ -1,4 +1,4 @@
-### Hi 👋, I am Jinlong Zhao from Xi'an, China.
+### Hi 👋, I am Jinlong from Xi'an, China.
 
 
 <!--
