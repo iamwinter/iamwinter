@@ -1,5 +1,5 @@
 ### Hi 👋, I am Jinglong from Xi'an, China.
-![](http://latex.codecogs.com/svg.latex?公式代码)
+![](http://latex.codecogs.com/svg.latex?\\sum_{i=0}^n a_i)
 $$\sum_{i=0}^n a_i$$
 
 <!--
