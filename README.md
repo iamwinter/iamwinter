@@ -1,6 +1,6 @@
 ### Hi 👋, I am Jinlong from Xi'an, China.
 
-
+E-mail: jinglong@stu.xidian.edu.cn
 <!--
 **zhaojinglong/zhaojinglong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
