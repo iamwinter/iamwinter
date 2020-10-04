@@ -1,4 +1,4 @@
-### Hi 👋, I am Jinlong from Xi'an, China.
+### Hi 👋, I am Jinglong from Xi'an, China.
 
 E-mail: jinglong@stu.xidian.edu.cn
 <!--
