@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="center" style="margin-bottom:100px">
     <b>
         Table 1. 
         Performance comparison (mean squared error) on several datasets.
