@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-table{
-    margin: 0 auto;
-}
-</style>
+<div style="text-align:center">
 | 1 | 2 |
 |---|---|
 |a | b|
+</div>
