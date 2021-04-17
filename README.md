@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div style="text-align:center">
+
 | 1 | 2 |
 |---|---|
 |a | b|
+
 </div>
