@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 |a | b|
 
 </div>
-<p align="center">
-    <strong>
+
+    <strong align="center">
         Table 1. 
         Performance comparison (mean squared error) on several datasets.
     </strong>
-</p>
+
