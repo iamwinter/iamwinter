@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-
-| 1 | 2 |
-|---|---|
-|a | b|
-
-</div>
-
-<p align="center" style="font-weight: bold;">
-    Table 1. 
-   Performance comparison (mean squared error) on several datasets.
+<p align="center">
+    <b>
+        Table 1. 
+        Performance comparison (mean squared error) on several datasets.
+    </b>
 </p>
-
