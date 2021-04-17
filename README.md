@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 </div>
 
-<strong align="center">
+<p align="center" style="font-weight: bold;">
     Table 1. 
    Performance comparison (mean squared error) on several datasets.
-</strong>
+</p>
 
