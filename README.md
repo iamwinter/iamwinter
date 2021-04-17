@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" style="text-align:center">
+<div align="center">
 
 | 1 | 2 |
 |---|---|
