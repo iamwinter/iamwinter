@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+table{
+    margin: 0 auto;
+}
+</style>
+| 1 | 2 |
+|---|---|
+|a | b|
