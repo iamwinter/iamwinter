@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 |a | b|
 
 </div>
+<p align="center">
+    <strong>
+        Table 1. 
+        Performance comparison (mean squared error) on several datasets.
+    </strong>
+</p>
