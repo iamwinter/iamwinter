@@ -1,16 +1,27 @@
-### Hi 👋, I am Jinglong from Xi'an, China.
+### Hey :wave:, I'm Jinglong from Xi'an, China.
 
-<!--
-**zhaojinglong/zhaojinglong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/iamwinter">
+  <img align="left" alt="iamwinter's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://codeforces.com/profile/iamwinter">
+  <img align="left" alt="iamwinter's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://blog.csdn.net/winter2121">
+  <img align="left" alt="iamwinter's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codio.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**About Me**
+
+- 👨‍💻 I'm currently a student at Xidian University, engaged in research of recommendation system;
+- 💼 I'm studying for a master's degree in computer science and technology;
+- 🌱 I'm currently learning deep learning and English; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via jinglong@stu.xidian.edu.cn to reach me, or QQ: 545734785.
+
+![iamwinter's github stats](https://github-readme-stats.vercel.app/api?username=iamwinter&show_icons=true&hide_border=true&theme=highcontrast)
+![iamwinter's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=iamwinter&langs_count=8&theme=highcontrast&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
