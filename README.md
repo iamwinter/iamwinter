@@ -21,6 +21,7 @@
 - 💼 I'm studying for a master's degree in computer science and technology;
 - 🌱 I'm currently learning deep learning and English;
 - 📝 I used to be an acmer who loved algorithms.
+- 🤔 My hobbies are playing basketball, writing code, eating delicious food, etc.;
 - 💬 Please email via jinglong@stu.xidian.edu.cn to reach me, or QQ: 545734785.
 
 ![iamwinter's github stats](https://github-readme-stats.vercel.app/api?username=iamwinter&show_icons=true&hide_border=true)
