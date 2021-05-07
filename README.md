@@ -17,11 +17,10 @@
 
 **About Me**
 
-- 👨‍💻 I'm currently a student at Xidian University, engaged in research of recommendation system;
+- 👨‍💻 I'm currently a student at Xidian University, researching of recommendation system;
 - 💼 I'm studying for a master's degree in computer science and technology;
 - 🌱 I'm currently learning deep learning and English; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via jinglong@stu.xidian.edu.cn to reach me, or QQ: 545734785.
+- 💬 Please email via jinglong@stu.xidian.edu.cn to reach me, or QQ: 545734785.
 
 ![iamwinter's github stats](https://github-readme-stats.vercel.app/api?username=iamwinter&show_icons=true&hide_border=true)
 ![iamwinter's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=iamwinter&langs_count=8&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
