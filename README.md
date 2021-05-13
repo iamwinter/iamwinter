@@ -3,7 +3,7 @@
 <a href="https://github.com/iamwinter">
   <img align="left" alt="iamwinter's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://codeforces.com/profile/iamwinter">
+<a href="https://codeforces.com/profile/winter2121">
   <img align="left" alt="iamwinter's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 <a href="https://blog.csdn.net/winter2121">
