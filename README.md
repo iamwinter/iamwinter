@@ -17,7 +17,7 @@
 
 **About Me**
 
-- 👨‍💻 I'm currently a student at Xidian University, researching of recommendation system;
+- 👨‍💻 I'm currently a student at Xidian University, researching of recommender system;
 - 💼 I'm studying for a master's degree in computer science and technology;
 - 🌱 I'm currently learning deep learning and English;
 - 📝 I used to be an acmer who loved algorithms.
