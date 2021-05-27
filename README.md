@@ -9,6 +9,9 @@
 <a href="https://blog.csdn.net/winter2121">
   <img align="left" alt="iamwinter's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codio.svg" />
 </a>
+<a href="https://www.zhihu.com/people/spring21212121">
+  <img align="left" alt="Winter's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+</a>
 
 <br />
 <br />
