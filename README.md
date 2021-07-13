@@ -20,11 +20,11 @@
 
 **About Me**
 
-- 👨‍💻 I'm currently a student at Xidian University, learning recommender system;
+- 👨‍💻 I'm currently a student at Xidian University;
 - 💼 I'm studying for a master's degree in computer science and technology;
-- 🌱 I'm currently learning deep learning and English;
+- 🌱 I'm currently learning deep learning and researching recommender system;
 - 📝 I used to be an acmer who loved algorithms.
-- 🤔 My hobbies include playing basketball, coding and so on;
+- 🤔 My hobbies include playing basketball, playing badminton and so on;
 - 💬 Please email via jinglong@stu.xidian.edu.cn to reach me, or QQ: 545734785.
 
 ![iamwinter's github stats](https://github-readme-stats.vercel.app/api?username=iamwinter&show_icons=true&hide_border=true)
