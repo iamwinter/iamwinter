@@ -20,7 +20,7 @@
 
 **About Me**
 
-- 👨‍💻 I'm currently a student at Xidian University;
+- 👨‍💻 I'm currently a student at Xidian University; [Personal Resume](https://iamwinter.github.io)
 - 💼 I'm studying for a master's degree in computer science and technology;
 - 🌱 I'm currently learning deep learning and researching recommender system;
 - 📝 I used to be an acmer who loved algorithms.
