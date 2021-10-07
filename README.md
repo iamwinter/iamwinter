@@ -1,4 +1,4 @@
-### Hey :wave:, I'm Jinglong from Xi'an, China.
+### Hey :wave:, I'm Snower from Xi'an, China.
 
 <a href="https://github.com/iamwinter">
   <img align="left" alt="iamwinter's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
