@@ -1,4 +1,4 @@
-### Hey :wave:, I'm Snower from Xi'an, China.
+### Hey :wave:, I'm Winterant from Xi'an, China.
 
 <a href="https://github.com/iamwinter">
   <img align="left" alt="iamwinter's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -25,7 +25,6 @@
 - 🌱 I'm currently learning deep learning and researching recommender system;
 - 📝 I used to be an acmer who loved algorithms.
 - 🤔 My hobbies include playing basketball, playing badminton and so on;
-- 💬 Please email via jinglong@stu.xidian.edu.cn to reach me, or QQ: 545734785.
+- 💬 Please email via winterant@163.com to reach me.
 
 ![iamwinter's github stats](https://github-readme-stats.vercel.app/api?username=iamwinter&show_icons=true&hide_border=true)
-![iamwinter's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=iamwinter&langs_count=8&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
