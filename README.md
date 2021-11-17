@@ -1,4 +1,4 @@
-# 本账号所有仓库将转移到[https://github.com/winterant](https://github.com/winterant)
+# 本账号不再更新，已注册新账号[https://github.com/winterant](https://github.com/winterant)
 ---
 ### Hey :wave:, I'm Winterant from Xi'an, China.
 
