@@ -1,5 +1,3 @@
-# 本账号不再更新，已注册新账号[https://github.com/winterant](https://github.com/winterant)
----
 ### Hey :wave:, I'm Winterant from Xi'an, China.
 
 <a href="https://github.com/iamwinter">
